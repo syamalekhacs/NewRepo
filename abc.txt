@@ -1,2 +1,3 @@
 this is a sample text file.
 changing from second branch
+changing in first branch
